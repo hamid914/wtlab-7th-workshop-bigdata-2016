@@ -1,0 +1,1 @@
+javac -classpath lib/hadoop-core-1.2.1.jar -d build src/WordCount.java

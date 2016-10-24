@@ -1,0 +1,1 @@
+jar -cfv wc.jar -C build .
